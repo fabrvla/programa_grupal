@@ -21,9 +21,9 @@ def milenyCalderon_funcion():
 milenyCalderon_funcion()
 
 
-# ==========================================
+
 # INTEGRANTE 4: JOSEPH ANGASPIILCO JIMENEZ
-# ==========================================
+
 def calcular_promedio(notas):
     return sum(notas) / len(notas)
 
