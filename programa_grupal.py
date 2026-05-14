@@ -11,3 +11,11 @@ def lorenaSanchez_funcion():
 
 
 lorenaSanchez_funcion()
+
+# ===== INTEGRANTE 3 : Calderon Rondo  ==========
+
+def milenyCalderon_funcion():
+    nota = 20
+    print(f"Mi nota esperada es: {nota}")
+
+milenyCalderon_funcion()
