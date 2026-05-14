@@ -19,3 +19,11 @@ def milenyCalderon_funcion():
     print(f"Mi nota esperada es: {nota}")
 
 milenyCalderon_funcion()
+
+#------- INTEGRANTE 5: Edward Nuñez Vasquez ------
+
+def edwardNunez_function()
+    from datetime import date
+    print("Fecha: ", date.today())
+
+edwardNunez_function()
