@@ -31,8 +31,15 @@ print("Promedio del grupo:", calcular_promedio([18, 19, 20, 17, 16, 20]))
 
 #------- INTEGRANTE 5: Edward Nuñez Vasquez ------
 
-def edwardNunez_function()
+def edwardNunez_function():
     from datetime import date
     print("Fecha: ", date.today())
 
 edwardNunez_function()
+
+
+#------- INTEGRANTE 6: Cristopher Montoya --------
+
+def cristopherMontoya_function():
+     print("Todos participamos en el proyecto grupal")
+cristopherMontoya_function()
