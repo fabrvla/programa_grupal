@@ -4,9 +4,6 @@ def presentar_grupo():
 
 presentar_grupo()
 
-
-
-
 # ==========================================
 # INTEGRANTE 4: JOSEPH ANGASPIILCO JIMENEZ
 # ==========================================
